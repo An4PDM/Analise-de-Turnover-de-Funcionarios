@@ -45,7 +45,4 @@ O dashboard a seguir foi desenvolvido para monitorar e compreender a rotatividad
 - Há diferença significativa na renda média entre quem saiu e quem permaneceu.
 - Satisfação no trabalho e com o ambiente impactam diretamente na permanência.
 
----
-
-## 📂 Estrutura do Repositório
 
