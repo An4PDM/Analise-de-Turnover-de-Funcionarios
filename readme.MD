@@ -26,19 +26,9 @@ Foram realizadas etapas de **limpeza de dados**, **análise exploratória** e **
 - Comparação de médias de renda e tempo de empresa entre quem ficou e quem saiu.
 
 ### 3. Visualização no Power BI
-O dashboard interativo contém:
-- **Cartões**:
-  - Total de funcionários
-  - Funcionários com risco de rotatividade
-  - Percentual de turnover
-- **Gráficos de Barras**:
-  - Satisfação no trabalho (`JobSatisfaction`) por departamento
-  - Satisfação com o ambiente (`EnvironmentSatisfaction`) por departamento
-  - Turnover por departamento/cargo
-- **Gráfico de Pizza**:
-  - Distribuição de funcionários por `Attrition` (Yes/No)
-- **Filtros (Slicers)**:
-  - Departamento, Cargo e Gênero
+O dashboard a seguir foi desenvolvido para monitorar e compreender a rotatividade de funcionários. Ele apresenta indicadores-chave como total de colaboradores, quantidade e percentual de funcionários com risco de saída, além de análises de satisfação no trabalho e no ambiente por departamento e gênero. Também inclui a distribuição de turnover por cargo e departamento, permitindo identificar áreas críticas e subsidiar ações estratégicas de retenção.
+
+
 
 ---
 
